@@ -1,6 +1,6 @@
-**Delofon** is an one lone coder on the internet. Likes games, C# and Lua. Wants to like C++.
+**Delofon** is a one lone coder on the internet. Average C-like enjoyer.
 
 - 🔭 Currently working on: [Space Travel](https://www.youtube.com/channel/UCPOBWUi5IWwl1faiPUXoylw)
-- 📡 Stuff I made previously: Various little projects like FactorioModTool, QOIFormat and Mandelbrot and etc.
-- 📫 How to reach me: Via Discord or Steam
-- ⚡ Fun fact: Vertices of the hexagon can be constructed by permuting coordinates of the vector (1, 2, 3).
+- 📡 Stuff I made previously: Various little projects like [FactorioModTool](Delofon/FactorioModTool), [QOIFormat](Delofon/QOIFormat) and [Mandelbrot](Delofon/Mandelbrot) and etc.
+- 📫 How to reach me: Mail I guess
+- ⚡ Fun fact: C#'s GC is giving me a headache
